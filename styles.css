@@ -1,2 +1,12 @@
-<html lang="pt-BR">
-<body>
+body {
+    color: pink;
+    background: black
+}
+header{
+    border-bottom:solid 2px rgb(red)
+}
+
+p{
+    text-align: center;
+    font-size:  10px;
+}
