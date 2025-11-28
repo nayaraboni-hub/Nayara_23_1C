@@ -17,7 +17,9 @@ background-color: blueviolet;
     display: flex;
     justify-content: center;
 }
-
+.chamada-texto{
+    margin: right 5% ;
+}
 p{
     text-align: center;
     font-size:  10px;
